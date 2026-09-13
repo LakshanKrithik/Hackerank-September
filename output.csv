@@ -32,9 +32,9 @@ request_55,130328.43,affordable_with_plan,installments,2026-06-11:75781.33|2026-
 request_56,649.55,affordable_with_plan,partial_payment,2025-02-03:649.55|2025-02-15:232.01,2025-02-15,none,Use partial payment: safe initial payment today followed by remaining balance on 2025-02-15 to stay above the USD 2100 reserve.
 request_57,12798.79,affordable_later,wait,2026-06-15:61446,2026-06-15,none,Wait until 2026-06-15 for full payment. Paying earlier would reduce available balance below the required ZAR 42700 minimum.
 request_58,16226000,affordable_now,full_payment,2024-12-07:16226000,2024-12-07,none,Pay in full today. The balance remains safely above the IDR 14433900 minimum requirement throughout the forecast.
-request_59,140600,not_affordable,not_recommended,none,2025-05-04,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the INR 132600 minimum reserve.
+request_59,140600,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the INR 132600 minimum reserve.
 request_60,121.67,affordable_later,wait,2026-01-15:199.89,2026-01-15,none,Wait until 2026-01-15 for full payment. Paying earlier would reduce available balance below the required USD 400 minimum.
-request_61,29062,not_affordable,not_recommended,none,2024-03-03,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the ZAR 36700 minimum reserve.
+request_61,29062,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the ZAR 36700 minimum reserve.
 request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,Pay in full today. The balance remains safely above the USD 1300 minimum requirement throughout the forecast.
 request_63,39511.91,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the INR 153500 minimum reserve.
 request_64,0,affordable_with_plan,installments,2024-06-11:22082.67|2024-07-12:22082.67|2024-08-12:22082.67,,none,Use recommended installment plan (payment_option_177). Payments are distributed safely to maintain the required INR 36100 reserve.
@@ -62,7 +62,7 @@ request_85,502858.59,not_affordable,not_recommended,none,,none,Not recommended w
 request_86,46300,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,Pay in full today. The balance remains safely above the INR 84900 minimum requirement throughout the forecast.
 request_87,18318.34,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the INR 185900 minimum reserve.
 request_88,10778.81,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-07-15,none,Use recommended installment plan (payment_option_245). Payments are distributed safely to maintain the required ZAR 25800 reserve.
-request_89,9335178.11,not_affordable,not_recommended,none,2026-01-15,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the IDR 12534700 minimum reserve.
+request_89,9335178.11,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the IDR 12534700 minimum reserve.
 request_90,2560,affordable_now,full_payment,2026-07-06:2560,2026-07-06,none,Pay in full today. The balance remains safely above the ZAR 7600 minimum requirement throughout the forecast.
 request_91,499.58,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the EUR 2100 minimum reserve.
 request_92,32419.87,affordable_later,wait,2025-02-24:34034,2025-02-24,none,Wait until 2025-02-24 for full payment. Paying earlier would reduce available balance below the required ZAR 28100 minimum.
@@ -70,7 +70,7 @@ request_93,1729.2,affordable_now,full_payment,2026-04-07:1729.20,2026-04-07,none
 request_94,572,affordable_now,full_payment,2024-12-04:572.00,2024-12-04,none,Pay in full today. The balance remains safely above the EUR 600 minimum requirement throughout the forecast.
 request_95,0,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the INR 145500 minimum reserve.
 request_96,72756.22,affordable_with_plan,installments,2026-01-10:31269.33|2026-02-09:31269.33|2026-03-11:31269.33,2026-02-15,none,Use recommended installment plan (payment_option_269). Payments are distributed safely to maintain the required INR 56500 reserve.
-request_97,1525.69,not_affordable,not_recommended,none,2024-04-15,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the ZAR 29700 minimum reserve.
+request_97,1525.69,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the ZAR 29700 minimum reserve.
 request_98,0,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the ZAR 30000 minimum reserve.
 request_99,18062,affordable_now,full_payment,2026-07-04:18062,2026-07-04,none,Pay in full today. The balance remains safely above the ZAR 49100 minimum requirement throughout the forecast.
 request_100,25525.94,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-07-15,none,Use recommended installment plan (payment_option_281). Payments are distributed safely to maintain the required ZAR 32500 reserve.
@@ -92,7 +92,7 @@ request_115,14428.19,affordable_later,wait,2024-11-15:80500,2024-11-15,none,Wait
 request_116,10464.97,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the INR 80300 minimum reserve.
 request_117,861.62,affordable_with_plan,full_payment,2026-07-05:880.00,2026-07-15,stop:event_10833,Pay in full today. The balance remains safely above the EUR 1000 minimum requirement throughout the forecast.
 request_118,653.97,affordable_with_plan,installments,2024-12-07:255.87|2025-01-07:255.87|2025-02-07:255.87,2025-01-15,reduce_to:event_10914:14.00,Use recommended installment plan (payment_option_334). Payments are distributed safely to maintain the required EUR 600 reserve.
-request_119,59264.49,not_affordable,not_recommended,none,2025-06-15,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the INR 151200 minimum reserve.
+request_119,59264.49,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the INR 151200 minimum reserve.
 request_120,7714000,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,Pay in full today. The balance remains safely above the IDR 20050300 minimum requirement throughout the forecast.
 request_121,633.6,affordable_now,full_payment,2024-03-03:633.60,2024-03-03,none,Pay in full today. The balance remains safely above the USD 800 minimum requirement throughout the forecast.
 request_122,20558000,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,Use recommended installment plan (payment_option_347). Payments are distributed safely to maintain the required IDR 12588500 reserve.
@@ -166,7 +166,7 @@ request_189,488.4,affordable_now,full_payment,2026-07-04:488.40,2026-07-04,none,
 request_190,590.53,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the EUR 1600 minimum reserve.
 request_191,664.4,affordable_now,full_payment,2025-05-03:664.40,2025-05-03,none,Pay in full today. The balance remains safely above the EUR 500 minimum requirement throughout the forecast.
 request_192,134.22,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the USD 1000 minimum reserve.
-request_193,36.52,not_affordable,not_recommended,none,2024-05-15,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the EUR 1000 minimum reserve.
+request_193,36.52,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the EUR 1000 minimum reserve.
 request_194,0,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the INR 113600 minimum reserve.
 request_195,974.95,affordable_with_plan,installments,2026-01-09:405.74|2026-02-08:405.74|2026-03-10:405.74,2026-02-15,none,Use recommended installment plan (payment_option_555). Payments are distributed safely to maintain the required EUR 700 reserve.
 request_196,762.3,affordable_now,full_payment,2024-06-03:762.30,2024-06-03,none,Pay in full today. The balance remains safely above the EUR 500 minimum requirement throughout the forecast.
@@ -202,7 +202,7 @@ request_225,9709549.58,not_affordable,not_recommended,none,,none,Not recommended
 request_226,157000,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,Pay in full today. The balance remains safely above the INR 209400 minimum requirement throughout the forecast.
 request_227,7906.67,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the INR 62900 minimum reserve.
 request_228,0,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the IDR 26191200 minimum reserve.
-request_229,517.17,not_affordable,not_recommended,none,2024-05-15,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the EUR 1000 minimum reserve.
+request_229,517.17,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the EUR 1000 minimum reserve.
 request_230,3537.6,affordable_now,full_payment,2025-08-06:3537.60,2025-08-06,none,Pay in full today. The balance remains safely above the EUR 2000 minimum requirement throughout the forecast.
 request_231,32100.16,affordable_with_plan,installments,2026-01-06:12378.08|2026-02-05:12378.08|2026-03-07:12378.08,2026-02-15,none,Use recommended installment plan (payment_option_666). Payments are distributed safely to maintain the required ZAR 24300 reserve.
 request_232,0,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the EUR 2400 minimum reserve.
@@ -214,12 +214,12 @@ request_237,23826000,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,
 request_238,663.6,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,2024-12-07,none,Use recommended installment plan (payment_option_686). Payments are distributed safely to maintain the required USD 700 reserve.
 request_239,642,affordable_now,full_payment,2025-05-04:642.00,2025-05-04,none,Pay in full today. The balance remains safely above the USD 600 minimum requirement throughout the forecast.
 request_240,0,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the INR 52800 minimum reserve.
-request_241,21052000,not_affordable,not_recommended,none,2024-03-03,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the IDR 19252000 minimum reserve.
+request_241,21052000,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the IDR 19252000 minimum reserve.
 request_242,28.62,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the EUR 600 minimum reserve.
 request_243,17468,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,Pay in full today. The balance remains safely above the ZAR 19900 minimum requirement throughout the forecast.
 request_244,49918,affordable_now,full_payment,2024-06-04:49918,2024-06-04,none,Pay in full today. The balance remains safely above the ZAR 45900 minimum requirement throughout the forecast.
 request_245,0,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the INR 94600 minimum reserve.
-request_246,64086,not_affordable,not_recommended,none,2026-04-03,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the ZAR 39300 minimum reserve.
+request_246,64086,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the ZAR 39300 minimum reserve.
 request_247,1059.3,affordable_now,full_payment,2024-09-05:1059.30,2024-09-05,none,Pay in full today. The balance remains safely above the EUR 1300 minimum requirement throughout the forecast.
 request_248,893.07,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the USD 1300 minimum reserve.
 request_249,134.85,not_affordable,not_recommended,none,,none,Not recommended within the forecast period. Cannot safely complete the request while maintaining the USD 600 minimum reserve.

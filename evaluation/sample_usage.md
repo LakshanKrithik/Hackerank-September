@@ -11,9 +11,9 @@
 ### 2. Execution Metrics
 | Metric | Value |
 |---|---|
-| Total Evaluation Requests | 250 |
-| Total Execution Time | 3.07 seconds |
-| Average Latency per Request | 0.0123 seconds |
+| Total Evaluation Requests | 25 |
+| Total Execution Time | 1.59 seconds |
+| Average Latency per Request | 0.0638 seconds |
 | Total Model Calls | 0 |
 | Total Input Tokens | 0 |
 | Total Output Tokens | 0 |
